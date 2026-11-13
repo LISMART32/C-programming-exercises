@@ -1,0 +1,15 @@
+# C编译与调试垃圾 (核心：干掉你的 build)
+build/
+Debug/
+Release/
+*.exe
+*.o
+*.out
+
+# VS Code配置 (可选)
+.vscode/
+
+# 其他工程杂项
+*.db
+*.suo
+*.user
